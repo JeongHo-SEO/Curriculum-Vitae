@@ -8,4 +8,4 @@
 - TOEFL: 82 or 88
 
 ### Certificates
-- [Advanced Data Analytics Semi-Professional (ADsP)](./ADsP-44th.pdf)
+- Advanced Data Analytics Semi-Professional (ADsP)
